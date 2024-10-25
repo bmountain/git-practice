@@ -1,6 +1,0 @@
-20
-test
-in develop branch
-develop A
-develop B
-C
