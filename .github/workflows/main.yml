@@ -1,4 +1,4 @@
-name: smaple-workflow
+name: samaple-workflow
 on:
   push:
     branches: [master]
